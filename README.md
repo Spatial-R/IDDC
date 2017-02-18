@@ -1,2 +1,2 @@
 # IDDC
-IDDC(Infectious diseases dataset in tycho project)  build to gather the infectious disease dataset from  the \href{https://www.tycho.pitt.edu/index.php}[tychoo project]
+IDDC was build to gather infectious disease datasets from the [tycho project](https://www.tycho.pitt.edu/index.php), which provides an API for the level 2 dataset. Detailed document about this API is [here](http://www.tycho.pitt.edu/api_help.php).  
