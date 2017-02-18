@@ -1,0 +1,13 @@
+Package: IDDC
+Type: Package
+Title: Infectious diseases dataset in tycho project
+Imports: rvest
+Version: 0.1.0
+Author: Bing Zhang
+Maintainer: Bing Zhang <zhangbing4502431@outlook.com>
+Description: This package is build to gather the infectious disease dataset from
+    the \href{https://www.tycho.pitt.edu/index.php}[tychoo project].
+URL: http://spatial-r.github.io/tycho
+License: GPL-2 | GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
